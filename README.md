@@ -1,10 +1,10 @@
 # Portfolio SIG — Gaétan Rio
 
-**Géomaticien · Aménagement du territoire · Environnement · Réseaux**
+**Géomaticien · Aménagement du territoire · Environnement**
 
-Spécialiste SIG avec une double compétence en aménagement territorial et géomatique appliquée.  
-Master AUTELI (Université Bretagne Sud) + 4 ans d'expérience en collectivité territoriale (Quimperlé Communauté).  
-En cours de spécialisation technique : PostGIS · Python SIG · Gestion patrimoniale de réseaux (RAEPA).
+SIG avec une double compétence en aménagement territorial et géomatique appliquée.  
+Master GAED (Parcours AUTELI, Université Bretagne Sud) + 4 ans d'expérience en collectivité territoriale (Quimperlé Communauté).  
+En cours de spécialisation technique : PostGIS · Python SIG.
 
 📍 Rennes, Bretagne — 📧 rg_gaetan@yahoo.fr
 
@@ -20,7 +20,7 @@ En cours de spécialisation technique : PostGIS · Python SIG · Gestion patrimo
 | Environnement | ZNIEFF · Natura 2000 · Loi Littoral · TVB · Chiroptères |
 | Mobilité | Schéma directeur cyclable · Données linéaires · Itinéraires |
 | Urbanisme | PLU · Sectorisation · Contraintes réglementaires |
-| En cours | PostGIS · Python (GeoPandas, NetworkX) · Format RAEPA |
+| En cours | PostGIS · Python (GeoPandas, NetworkX) |
 
 ---
 
@@ -42,7 +42,7 @@ En cours de spécialisation technique : PostGIS · Python SIG · Gestion patrimo
 
 **Outils :** QGIS · WFS Géobretagne · INPN · INSEE
 
-📄 [Voir la présentation complète](travaux/Projet_GUENO_François-Emmanuel_-_RIO_Gaetan_-_RIVAUD_Paul.pdf)
+📄 [Voir la présentation complète](travaux/[Projet_GUENO_François-Emmanuel-RIO Gaetan-RIVAUD Paul.pdf](https://github.com/user-attachments/files/27287942/Projet_GUENO_Francois-Emmanuel-RIO.Gaetan-RIVAUD.Paul.pdf)
 
 ---
 
@@ -87,7 +87,7 @@ Sources : PLU Moëlan-sur-Mer
 Synthèse cartographique multicouche croisant protections, petit patrimoine, hydrographie et îlots sélectionnés pour intervention.  
 Sources : IGN · PLU
 
-📄 [Voir la carte des enjeux complète](travaux/Carte_enjeux_Moelan.pdf)
+📄 [Voir la carte des enjeux complète](travaux/Carte_enjeux_Moelan.png)
 
 ---
 
@@ -135,21 +135,13 @@ Cartographie réglementaire PLU intégrant les contraintes agricoles (L111-3, L1
 
 ---
 
-## En cours de développement
-
-**Projet RAEPA — pipeline de contrôle qualité réseaux AEP**  
-Structuration de données réseau eau potable au format RAEPA COVADIS · Contrôle topologique NetworkX · Intégration PostGIS  
-*Stack : Python · GeoPandas · NetworkX · PostGIS · QGIS*
-
----
-
 ## Formation & parcours
 
-- **Master AUTELI** — Aménagement et Urbanisme des Territoires Littoraux, Université Bretagne Sud
+- **Master GAED** — Aménagement et Urbanisme des Territoires Littoraux, Université Bretagne Sud
+- **Stagiaire chargé d'urbanisme opérationnel** — SAS Le Bihan & Associés, cabinet de Géomètre-expert (2021)
 - **Agent Territorial** — Quimperlé Communauté, Pôle Aménagement / Service Déplacements (2021–2025)
-- **Formation PostGIS** — Géodata Paris (ex-ENSG-IGN), en cours 2026
 - **TOEIC 960/990** · Cambridge First Certificate
 
 ---
 
-*Portfolio en cours d'enrichissement — projet RAEPA et données réseaux à venir.*
+*Portfolio en cours d'enrichissement*
