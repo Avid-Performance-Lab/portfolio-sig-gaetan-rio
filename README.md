@@ -121,21 +121,13 @@ Cartographie réglementaire PLU : sectorisation graphique complète intégrant l
 
 ---
 
-## En cours de développement
-
-**Projet RAEPA — pipeline de contrôle qualité réseaux AEP**  
-Structuration de données réseau eau potable au format RAEPA COVADIS · Contrôle topologique NetworkX · Intégration PostGIS  
-*Stack : Python · GeoPandas · NetworkX · PostGIS · QGIS*
-
----
-
 ## Formation & parcours
 
-- **Master AUTELI** — Aménagement et Urbanisme des Territoires Littoraux, Université Bretagne Sud
+- **Master GAED** — Aménagement et Urbanisme des Territoires Littoraux, Université Bretagne Sud
+- **Stagiaire chargé d'urbanisme opérationnel** — SAS Le Biahn & Associés, cabinet Géomètre-expert (2021)
 - **Agent Territorial** — Quimperlé Communauté, Pôle Aménagement / Service Déplacements (2021–2025)
-- **Formation PostGIS** — Géodata Paris (ex-ENSG-IGN), en cours 2026
 - **TOEIC 960/990** · Cambridge First Certificate
 
 ---
 
-*Portfolio en cours d'enrichissement — projet RAEPA et données réseaux à venir.*
+*Portfolio en cours d'enrichissement*
