@@ -42,7 +42,8 @@ En cours de spécialisation technique : PostGIS · Python SIG.
 
 **Outils :** QGIS · WFS Géobretagne · INPN · INSEE
 
-📄 [Voir la présentation complète](travaux/Projet_GUENO_François-Emmanuel_-_RIO_Gaetan_-_RIVAUD_Paul.pdf)
+[📄 Voir la présentation complète](travaux/Projet_GUENO_François-Emmanuel_-_RIO_Gaetan_-_RIVAUD_Paul.pdf)
+
 ---
 
 ### 2 — Diagnostic environnemental et paysager de Moëlan-sur-Mer
