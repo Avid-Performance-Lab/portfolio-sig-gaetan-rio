@@ -6,7 +6,7 @@ SIG avec une double compétence en aménagement territorial et géomatique appli
 Master GAED (Parcours AUTELI, Université Bretagne Sud) + 4 ans d'expérience en collectivité territoriale (Quimperlé Communauté).  
 En cours de spécialisation technique : PostGIS · Python SIG.
 
-📍 Rennes, Bretagne — 📧 rg_gaetan@yahoo.fr
+📍 Rennes, Bretagne — rg_gaetan@yahoo.fr
 
 ---
 
