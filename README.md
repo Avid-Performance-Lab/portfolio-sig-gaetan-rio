@@ -20,7 +20,6 @@ En cours de spécialisation technique : PostGIS · Python SIG.
 | Environnement | ZNIEFF · Natura 2000 · Loi Littoral · TVB · Chiroptères |
 | Mobilité | Schéma directeur cyclable · Réseaux de transports · Données linéaires · Itinéraires |
 | Urbanisme | PLU · Sectorisation · Contraintes réglementaires |
-| En cours | PostGIS · Python (GeoPandas, NetworkX) |
 
 ---
 
